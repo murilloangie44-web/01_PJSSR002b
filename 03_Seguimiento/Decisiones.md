@@ -4,4 +4,4 @@
 - Acuerdo: las actividades se gestionan mediande Issues y Github projet
 - Criterio: solo se publicaran documentos y evidencias sin datospersonales
 - Estado: decisión de configuración tomado durante esta demostracion
-
+- Relaciones: actividades enlazadas de manera cronologica
