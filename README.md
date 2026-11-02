@@ -48,9 +48,9 @@ El trabajo se administra mediante Issues y el tablero de GitHub Projects:
 
 | Carpeta | Contenido |
 | --- | --- |
-| [01_ Formulacion](01_%20Formulacion/) | Ficha de formulación y documento base del proyecto |
-| [02_Evidencias](02_Evidencias/) | Índice de evidencias y protocolo de confidencialidad |
-| [03_Seguimiento](03_Seguimiento/) | Plan operativo, indicadores, matriz de riesgos, decisiones y protocolo de gestión |
+| [01_ Formulacion – README](01_%20Formulacion/README.md) | Ficha de formulación y documento base del proyecto |
+| [02_Evidencias – README](02_Evidencias/README.md) | Índice de evidencias y protocolo de confidencialidad |
+| [03_Seguimiento – README](03_Seguimiento/README.md) | Plan operativo, indicadores, matriz de riesgos, decisiones y protocolo de gestión |
 
 Documentos clave:
 - [Ficha de formulación](01_%20Formulacion/SG_01_PJSSR002_Ficha_GitHub_corregida.docx).
