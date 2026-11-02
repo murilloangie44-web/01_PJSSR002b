@@ -1,45 +1,74 @@
-# RED INTEGRAL DE ORIENTACIÓN Y ACCESO EN SALUD SEXUAL Y REPRODUCTIVA JUVENIL
+# Red Integral de Orientación y Acceso en Salud Sexual y Reproductiva Juvenil
 
-**Equipo:** 01_PJSSR002
+**Código del equipo:** 01_PJSSR002  
+**Territorio de intervención:** municipio de San Gabriel  
+**Población objetivo:** jóvenes de 18 a 28 años  
+**Enfoque:** orientación territorial y multicanal, información confiable, articulación institucional y seguimiento protegido de remisiones.
 
-**Integrantes:**
-* Andres Eduardo Sierra Izquierdo
-*  Angie Paola Murillo Sanchez
-* Cristian Daniel Sanchez Soto
-* Millerlandy Peña Doncel
+## 1. Problema y propósito
 
-## Problema
-Acceso limitado de los jóvenes de 18 a 28 años del municipio de San Gabriel a información confiable y a servicios de orientación en salud sexual y reproductiva, debido al desconocimiento de la oferta institucional, la baja confianza en la información disponible y las barreras de acceso relacionadas con la distancia, los horarios de atención y la vergüenza para solicitar orientación.
+Los jóvenes de 18 a 28 años de San Gabriel enfrentan barreras para acceder a información confiable y servicios de orientación en salud sexual y reproductiva: desconocimiento de la oferta institucional, baja confianza en la información disponible, distancia, horarios y temor o vergüenza al solicitar orientación.
 
-## Alternativa de intervención
-Implementar una estrategia integral, territorial y multicanal que combine orientación digital y presencial, información confiable, atención individual y articulación con los servicios de salud sexual y reproductiva, adaptada a las necesidades de los jóvenes de 18 a 28 años y a las barreras de acceso de las zonas urbanas, periféricas y rurales de San Gabriel.
+El proyecto propone una estrategia integral que combina orientación digital y presencial, información técnicamente validada, atención individual y articulación con los servicios de salud sexual y reproductiva.
 
-## Descripción operativa
-Desarrollar acciones de orientación presencial y digital, difusión de información confiable, atención individual y articulación con los servicios de salud, mediante canales accesibles y jornadas territoriales adaptadas a las necesidades de los jóvenes de 18 a 28 años, con seguimiento a las remisiones y evaluación de resultados.
+## 2. Componentes y actividades
 
-## Componentes y actividades
-El proyecto se compone de 15 actividades operativas distribuidas en 3 líneas de trabajo estructuradas de forma independiente para asegurar su trazabilidad:
-* [Consultar lista de actividades del proyecto (Issues)](https://github.com/murilloangie44-web/01_PJSSR002b/issues)
+El plan se organiza en tres líneas de trabajo y 15 actividades trazables mediante GitHub Issues:
 
-## Responsabilidades
-* **Equipo de gestión territorial y comunitaria + profesionales de SSR:** Coordinar el levantamiento y la verificación de la oferta institucional, consolidar el directorio y gestionar la validación con las entidades. (Asociado a Actividades 1–5; apoyo a 11 y 12).
-* **Especialista en comunicaciones/digital + equipo de orientación psicosocial:** Definir los mensajes, diseñar piezas, revisar su pertinencia y confidencialidad, incorporar observaciones y ejecutar la difusión de contenidos aprobados. (Asociado a Actividades 6–10).
-* **Profesionales en SSR/orientación psicosocial + gestores territoriales:** Coordinar la logística, convocar a la población joven, brindar orientación individual, activar remisiones y hacer seguimiento. (Asociado a Actividades 11–15).
+| Línea | Actividades | Resultado principal |
+| --- | --- | --- |
+| Planeación y directorio | [ACT-01](https://github.com/murilloangie44-web/01_PJSSR002b/issues/1) – [ACT-05](https://github.com/murilloangie44-web/01_PJSSR002b/issues/5) | Oferta institucional identificada, verificada, consolidada y validada |
+| Difusión digital | [ACT-06](https://github.com/murilloangie44-web/01_PJSSR002b/issues/6) – [ACT-10](https://github.com/murilloangie44-web/01_PJSSR002b/issues/10) | Contenidos pertinentes, revisados técnicamente y difundidos |
+| Jornadas presenciales | [ACT-11](https://github.com/murilloangie44-web/01_PJSSR002b/issues/11) – [ACT-15](https://github.com/murilloangie44-web/01_PJSSR002b/issues/15) | Jornadas, orientación, remisiones y seguimiento documentados |
 
-## Seguimiento del proyecto
-El monitoreo del progreso del ecosistema y los estados de trabajo se gestiona en nuestro tablero Kanban interactivo:
-* [Abrir tablero de seguimiento (Project)](https://github.com/users/murilloangie44-web/projects/2/views/1)
+[Consultar los 15 Issues del proyecto](https://github.com/murilloangie44-web/01_PJSSR002b/issues).
 
-## Insumos disponibles
-* [Base de datos con registros territoriales - Escenario muestral](https://github.com)
-* [Preferencias de canales de comunicación y demanda (WhatsApp 43,5%)](https://github.com)
+## 3. Equipo y responsabilidades
 
-## Herramientas complementarias
-* **Notion / Google Drive + GitHub Projects:** Centralizar la recolección, organización y validación del directorio; registrar acuerdos y monitorear las tareas.
-* **Canva + ChatGPT/IA + WhatsApp Business:** Apoyar el diseño preliminar, la redacción y la programación de contenidos multicanal con revisión técnica humana.
-* **Google Calendar + Slack / Microsoft Teams:** Coordinar espacios, fechas y horarios, y comunicación interna del equipo.
+- **Andrés Eduardo Sierra Izquierdo:** articulación y actividades territoriales, convocatoria y apoyo a la operación presencial.
+- **Angie Paola Murillo Sánchez:** verificación de oferta institucional y validación de directorio y rutas.
+- **Cristian Daniel Sánchez Soto:** identificación y consolidación de oferta institucional.
+- **Millerlandy Peña Doncel:** contenidos, revisión técnica, difusión y seguimiento de remisiones.
 
-## Decisiones pendientes e Incidencias previstas
-* Demoras de las entidades aliadas para confirmar la oferta de servicios, contactos y horarios.
-* Necesidad de corregir datos del directorio o ajustar contenidos tras la revisión técnica antes de su publicación.
-* Problemas de conectividad en zonas rurales, baja participación juvenil o limitaciones logísticas en jornadas presenciales.
+Las responsabilidades funcionales descritas en los Issues deben mantenerse alineadas con los acuerdos del equipo. La asignación técnica en GitHub (**Assignees**) requiere que cada cuenta tenga acceso al repositorio.
+
+## 4. Gestión y seguimiento
+
+El trabajo se administra mediante Issues y el tablero de GitHub Projects:
+
+- [Abrir tablero de seguimiento](https://github.com/users/murilloangie44-web/projects/2/views/1).
+- [Consultar actividades e incidencias](https://github.com/murilloangie44-web/01_PJSSR002b/issues).
+- [Registro de decisiones](03_Seguimiento/Decisiones.md).
+- [Plan operativo](03_Seguimiento/Plan_operativo.md).
+- [Cronograma de ejecución de cuatro meses](03_Seguimiento/Cronograma_4_meses.md).
+- [Configuración del Project](03_Seguimiento/Configuracion_Project.md).
+- [Corte de diagnóstico inicial](03_Seguimiento/Corte_inicial_021126.md).
+
+## 5. Documentos del repositorio
+
+| Carpeta | Contenido |
+| --- | --- |
+| [01_ Formulacion](01_%20Formulacion/) | Ficha de formulación y documento base del proyecto |
+| [02_Evidencias](02_Evidencias/) | Índice de evidencias y protocolo de confidencialidad |
+| [03_Seguimiento](03_Seguimiento/) | Plan operativo, indicadores, matriz de riesgos, decisiones y protocolo de gestión |
+
+Documentos clave:
+- [Ficha de formulación](01_%20Formulacion/SG_01_PJSSR002_Ficha_GitHub_corregida.docx).
+- [Índice de evidencias](02_Evidencias/Indice_evidencias.md).
+- [Protocolo de confidencialidad](02_Evidencias/Protocolo_confidencialidad.md).
+- [Indicadores](03_Seguimiento/Indicadores.md).
+- [Matriz de riesgos](03_Seguimiento/Matriz_riesgos.md).
+- [Protocolo de gestión](03_Seguimiento/Protocolo_gestion.md).
+
+## 6. Reglas de calidad y protección de datos
+
+1. La información de salud sexual y reproductiva debe contar con revisión técnica antes de difundirse.
+2. No publicar en GitHub nombres, teléfonos, documentos, historias, diagnósticos, formularios diligenciados ni datos individuales de atención o remisión.
+3. Los registros individualizados deben permanecer en sistemas institucionales autorizados y con acceso restringido.
+4. Las evidencias públicas deben estar anonimizadas o agregadas, con fuente, fecha y versión.
+5. Un Issue solo se cierra cuando su criterio de aceptación se cumple y la evidencia correspondiente está enlazada y verificada.
+6. El cierre de actividades mide cumplimiento operativo y documental; no demuestra por sí solo impacto en salud o cambio de comportamiento.
+
+## 7. Decisiones pendientes de formalización
+
+El equipo debe validar el cronograma, metas cuantitativas, cobertura, periodicidad de seguimiento, responsables de aprobación técnica y canales institucionales autorizados para gestionar registros individuales. Hasta entonces, las fechas y metas no confirmadas no deben presentarse como compromisos ni resultados.
