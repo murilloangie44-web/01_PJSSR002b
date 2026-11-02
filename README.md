@@ -40,6 +40,7 @@ El trabajo se administra mediante Issues y el tablero de GitHub Projects:
 - [Consultar actividades e incidencias](https://github.com/murilloangie44-web/01_PJSSR002b/issues).
 - [Registro de decisiones](03_Seguimiento/Decisiones.md).
 - [Plan operativo](03_Seguimiento/Plan_operativo.md).
+- [Cronograma de ejecución de cuatro meses](03_Seguimiento/Cronograma_4_meses.md).
 - [Configuración del Project](03_Seguimiento/Configuracion_Project.md).
 - [Corte de diagnóstico inicial](03_Seguimiento/Corte_inicial_021126.md).
 
