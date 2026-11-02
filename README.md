@@ -31,8 +31,8 @@ El monitoreo del progreso del ecosistema y los estados de trabajo se gestiona en
 * [Abrir tablero de seguimiento (Project)](https://github.com/users/murilloangie44-web/projects/2/views/1)
 
 ## Insumos disponibles
-* [Base de datos con registros territoriales - Escenario muestral](https://github.com)
-* [Preferencias de canales de comunicación y demanda (WhatsApp 43,5%)](https://github.com)
+* [Consultar la actividad de identificación de la oferta institucional y el levantamiento de registros territoriales (ACT-01)](https://github.com/murilloangie44-web/01_PJSSR002b/issues/1)
+* [Consultar la actividad de definición de públicos, mensajes y canales de comunicación (ACT-06)](https://github.com/murilloangie44-web/01_PJSSR002b/issues/6)
 
 ## Herramientas complementarias
 * **Notion / Google Drive + GitHub Projects:** Centralizar la recolección, organización y validación del directorio; registrar acuerdos y monitorear las tareas.
