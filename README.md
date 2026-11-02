@@ -29,6 +29,7 @@ El proyecto se compone de 15 actividades operativas distribuidas en 3 líneas de
 ## Seguimiento del proyecto
 El monitoreo del progreso del ecosistema y los estados de trabajo se gestiona en nuestro tablero Kanban interactivo:
 * [Abrir tablero de seguimiento (Project)](https://github.com/users/murilloangie44-web/projects/2/views/1)
+* **Si el tablero no está disponible para tu cuenta:** [Consultar las actividades del proyecto (Issues)](https://github.com/murilloangie44-web/01_PJSSR002b/issues).
 
 ## Insumos disponibles
 * [Consultar la actividad de identificación de la oferta institucional y el levantamiento de registros territoriales (ACT-01)](https://github.com/murilloangie44-web/01_PJSSR002b/issues/1)
